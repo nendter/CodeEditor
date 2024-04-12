@@ -1,0 +1,21 @@
+:root{
+    --shade: #111111;
+    --shade-2: #171717;
+    --shade-3: #222222;
+    --shade-4: #333333;
+
+    --tint: #FFFFFF;
+    --tint-2: #CCCCCC;
+    --tint-3: #999999;
+    --tint-4: #888888;
+    --tint-5: #777777;
+    --tint-6: #666666;
+
+    --primary: #1188FF;
+    --primary-20: #1188FF33;
+
+    --overlay: #00000019;
+
+    --border: 1px solid #FFFFFF05;
+    --shadow: .1rem .1rem .2rem rgba(0, 0, 0, .13);
+}
